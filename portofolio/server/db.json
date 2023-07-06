@@ -1,0 +1,67 @@
+{
+  "todos": [
+    {
+      "title": "halo kerjakan todo",
+      "completed": true,
+      "created": "2023-06-29T18:03:05.900Z",
+      "id": 1,
+      "archived": false
+    },
+    {
+      "title": "nanti buat design",
+      "completed": true,
+      "created": "2023-06-29T18:03:12.210Z",
+      "id": 2,
+      "archived": false
+    },
+    {
+      "title": "buat flow",
+      "completed": true,
+      "created": "2023-06-29T18:03:16.882Z",
+      "id": 3,
+      "archived": false
+    },
+    {
+      "title": "asdsadsad",
+      "completed": true,
+      "archived": false,
+      "created": "2023-06-29T18:12:11.457Z",
+      "id": 4
+    },
+    {
+      "title": "tambah todo",
+      "completed": true,
+      "archived": false,
+      "created": "2023-06-29T18:14:11.595Z",
+      "id": 5
+    },
+    {
+      "title": "tambah lagi",
+      "completed": true,
+      "archived": false,
+      "created": "2023-06-29T18:14:34.349Z",
+      "id": 6
+    },
+    {
+      "title": "test",
+      "completed": true,
+      "archived": false,
+      "created": "2023-06-29T18:15:38.288Z",
+      "id": 7
+    },
+    {
+      "title": "test",
+      "completed": true,
+      "archived": false,
+      "created": "2023-06-29T18:15:48.272Z",
+      "id": 8
+    },
+    {
+      "title": "asdasd",
+      "completed": true,
+      "archived": false,
+      "created": "2023-06-29T18:19:06.373Z",
+      "id": 9
+    }
+  ]
+}
